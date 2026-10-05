@@ -1,10 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace CSharpMiniProjects
 {
-    public class Calculator
+    internal class Calculator
     {
-        public static void Main()
+        public static void Run(string[] args)
         {
             Console.WriteLine("===== C# Calculator =====");
 

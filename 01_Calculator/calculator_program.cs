@@ -4,7 +4,7 @@ namespace C_Sharp_Mini_Projects._01_Calculator
 {
     internal class CalculatorProgram
     {
-        public static void Main()
+        public static void Run()
         {
             int num1;
             int num2;

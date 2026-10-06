@@ -1,4 +1,5 @@
 ﻿using C_Sharp_Mini_Projects;
+using C_Sharp_Mini_Projects._05_Shape_Area_Calculaotr;
 using System;
 
 namespace C_Sharp_Mini_Projects
@@ -7,7 +8,7 @@ namespace C_Sharp_Mini_Projects
     {
         static void Main(string[] args)
         {
-            cointoss.Run();
+            shape_area_calcu.Run();
         }
     }
 }

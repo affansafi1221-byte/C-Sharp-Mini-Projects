@@ -7,7 +7,7 @@ namespace C_Sharp_Mini_Projects
     {
         static void Main(string[] args)
         {
-            number_guessing_game.Run();
+            cointoss.Run();
         }
     }
 }

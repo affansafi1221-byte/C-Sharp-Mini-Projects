@@ -7,7 +7,7 @@ namespace C_Sharp_Mini_Projects.Dice_Game
 {
     internal class dicegame
     { 
-        static void Main(string[]args)
+        static void Run(string[]args)
         {
             int playerRandomNum;
             int enemyRandomNum;

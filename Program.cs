@@ -1,4 +1,4 @@
-﻿using C_Sharp_Mini_Projects.Number_Guessing;
+﻿using C_Sharp_Mini_Projects;
 using System;
 
 namespace C_Sharp_Mini_Projects
